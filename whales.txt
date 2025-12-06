@@ -1,0 +1,20 @@
+100001|Balaenoptera musculus|Blue Whale|30|180|ENDANGERED|Pacific, Indian, Antarctic
+100002|Megaptera novaeangliae|Humpback Whale|16|36|VULNERABLE|Atlantic, Pacific
+100003|Eschrichtius robustus|Gray Whale|14|35|LEAST_CONCERN|North Pacific, Bering Sea
+100004|Balaenoptera physalus|Fin Whale|27|74|VULNERABLE|North Atlantic, Antarctic
+100005|Balaenoptera acutorostrata|Minke Whale|10|10|LEAST_CONCERN|Worldwide Oceans
+100006|Balaena mysticetus|Bowhead Whale|18|80|LEAST_CONCERN|Arctic Ocean
+100007|Physeter macrocephalus|Sperm Whale|20|57|VULNERABLE|Pacific, Atlantic
+100008|Delphinapterus leucas|Beluga Whale|5|1.5|LEAST_CONCERN|Arctic Ocean
+100009|Monodon monoceros|Narwhal|5|1.6|LEAST_CONCERN|Arctic Waters
+100010|Balaenoptera borealis|Sei Whale|19|45|ENDANGERED|North Pacific, North Atlantic
+100011|Balaenoptera brydei|Bryde's Whale|15|25|LEAST_CONCERN|Indian, Pacific
+100012|Balaenoptera omurai|Omura's Whale|10|10|ENDANGERED|Indian, Pacific Tropics
+100013|Eubalaena glacialis|North Atlantic Right Whale|15|70|CRITICALLY_ENDANGERED|North Atlantic
+100014|Caperea marginata|Pygmy Right Whale|6|3.4|LEAST_CONCERN|Southern Ocean
+100015|Globicephala melas|Pilot Whale|7|3|LEAST_CONCERN|North Atlantic, North Pacific
+100016|Pseudorca crassidens|Fake Killer Whale|5|2|ENDANGERED|Tropical Oceans
+100017|Orcinus orca|Killer Whale|8|6|LEAST_CONCERN|Worldwide Oceans
+100018|Globicephala macrorhynchus|Short-Finned Pilot Whale|6|2|LEAST_CONCERN|Tropical Pacific, Indian
+100019|Hyperoodon planifrons|Southern Bottlenose Whale|8|7|LEAST_CONCERN|Southern Ocean
+100020|Hyperoodon ampullatus|North Atlantic Bottlenose Whale|9|8|VULNERABLE|North Atlantic
